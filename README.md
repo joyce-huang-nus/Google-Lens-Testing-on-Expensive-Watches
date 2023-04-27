@@ -1,5 +1,8 @@
 # google-lens-testing
 
+This experiment aimed to test the accuracy of Google Lens in recognizing rare collectable photos of expensive watches, particularly high-end watch brands. The researchers randomly selected five high-end watch models from the top 10 most popular brands and tested them using more than 30 images for each watch model. The experiment yielded promising results as Google Lens accurately recognized the Rolex watches, indicating that the technology can be useful for identifying rare collectable items.
+
+
 ![zenith_el_primero_1](https://user-images.githubusercontent.com/88580416/234831477-c777dd7e-dc6e-403a-b182-f4a80bad471f.png)
 ![zenith_el_primero_2](https://user-images.githubusercontent.com/88580416/234831486-1ac74885-fca5-4411-bb9c-aec7f6633d68.png)
 ![zenith_el_primero_3](https://user-images.githubusercontent.com/88580416/234831488-a2117c12-605c-4319-b1e3-755dab7dd9a3.png)
